@@ -27,7 +27,7 @@ The full pipeline was built in **Google Colab (Python)**, following the **Medall
 | Name |
 |---|
 | Shahd Fekry Mohammed Shawky |
-| Aalaa Moataz Ahmed ElSayed |
+| Aalaa Moataz Ahmed Elsayed |
 | Mohand Yasser Hussein Hanfy |
 | Mohamed Mostafa Ahmed Mahmoud |
 | Youssef Mohamed Saber Zedan |
@@ -173,7 +173,7 @@ Performed entirely in Python (Google Colab) on the joined flat table (Fact + 7 D
 
 ##  Power BI Dashboard — 10 Pages
 
-Built directly on the Gold Layer star schema, following the exact analytical flow of the EDA notebook. First prototyped in **[Figma](https://www.figma.com/design/J4pDPekTPcVjJIP0GBre5m/Untitled?node-id=0-1&t=r781D7I63oJF6whk-1)** to define layout, navigation, and color scheme before implementation.
+Built directly on the Gold Layer star schema, following the exact analytical flow of the EDA notebook. First prototyped in **[Figma](https://www.figma.com/design/CQiLykbYdeZVe9vt1HBnZS/Drug-Delivery?node-id=0-1&t=RT0lO9uKsoaP39fH-1)** to define layout, navigation, and color scheme before implementation.
 
 | Page | Title | Theme / Focus |
 |---|---|---|
