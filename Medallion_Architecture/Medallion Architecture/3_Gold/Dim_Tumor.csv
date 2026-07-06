@@ -1,0 +1,46 @@
+Tumor_Key,Tumor Cell,Tumor Site,Tumor Size ( mm³)
+1,HeLa cell,Cervix,100.0
+2,CT26.WT cell,Colon,100.0
+3,9L.E29 cell,Brain,100.0
+4,DU145 cell,Prostate,300.0
+5,KB cell ,Cervix,100.0
+6,EMT-6 cell,Breast,100.0
+7,MCF-7 cell,Breast,180.0
+8,LNCaP cell,Prostate,270.0
+9,LCL cell,Lymphoma,100.0
+10,DU145 cell,Prostate,75.0
+11,A2780 cell,Ovary,4170.0
+12,MDA-MB-435 cell,Skin,100.0
+13,4T1 cell,Breast,500.0
+14,B16 cell ,Skin,4130.0
+15,SCC-7 cell,Skin,100.0
+16,EAC cell ,Breast,450.0
+17,DU145 cell,Prostate,180.0
+18,B78H1 cell,Skin,400.0
+19,PANC-1 cell,Pancreas,100.0
+20,C-26 cell,Colon,125.0
+21,A549 cell,Lungs,200.0
+22,HepG2 cell,Liver,100.0
+23,Other cell ,Sarcoma,100.0
+24,4T1 cell,Breast,150.0
+25,H22 cell,Liver,62.5
+26,4T1 cell,Breast,175.0
+27,4T1 cell,Breast,250.0
+28,U87MG cell,Brain,100.0
+29,B16F10  cell,Skin,200.0
+30,4T1 cell,Breast,50.0
+31,KB cell,Cervix,100.0
+32,C-26 cell,Colon,100.0
+33,A2780 cell,Ovary,1750.0
+34,Ehrlich cell,Breast,50.0
+35,Bcap37 cell,Cervix,100.0
+36,EL4 cell,Lymphoma,150.0
+37,4T1 cell,Breast,100.0
+38,H22 cell,Liver,100.0
+39,EMT6/AR1 cell,Breast,150.0
+40,A549-DDP cell,Lungs,100.0
+41,PC3-RES cell,Prostate,80.0
+42,U14 cell,Cervix,100.0
+43,H22 cell,Liver,500.0
+44,A2780 cell,Ovary,300.0
+45,4T1 cell,Breast,200.0
