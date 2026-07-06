@@ -1,5 +1,4 @@
-#  Drug Delivery Analytics — Nanoparticle Biodistribution Dashboard
-
+#  Drug Delivery Analytics 
 > *Decoding Nanoparticle Design for Precision Tumor Targeting*
 
 ##  Overview
