@@ -1,5 +1,3 @@
-# Figma Design
-
 # 🎨 Figma Design
 
 This folder contains the UI/UX design for the Nano Delivery Insights project.
