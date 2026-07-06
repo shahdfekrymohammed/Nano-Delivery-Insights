@@ -1,4 +1,5 @@
 #  Drug Delivery Analytics 
+
 > *Decoding Nanoparticle Design for Precision Tumor Targeting*
 
 ##  Overview
@@ -172,7 +173,7 @@ Performed entirely in Python (Google Colab) on the joined flat table (Fact + 7 D
 
 ##  Power BI Dashboard — 10 Pages
 
-Built directly on the Gold Layer star schema, following the exact analytical flow of the EDA notebook. First prototyped in **[Figma](https://www.figma.com/design/y7wPxRnoFsU9ssc9EJKgnP/Untitled?node-id=3-49)** to define layout, navigation, and color scheme before implementation.
+Built directly on the Gold Layer star schema, following the exact analytical flow of the EDA notebook. First prototyped in **[Figma](https://www.figma.com/design/J4pDPekTPcVjJIP0GBre5m/Untitled?node-id=0-1&t=r781D7I63oJF6whk-1)** to define layout, navigation, and color scheme before implementation.
 
 | Page | Title | Theme / Focus |
 |---|---|---|
@@ -404,7 +405,7 @@ Produces the full 12-section exploratory analysis.
 
 ---
 
-## Data Source & Attribution
+##  Data Source & Attribution
 
 **Dataset:** Supporting Information Excel 1.xlsx — curated nanoparticle biodistribution data from published biomedical literature, hosted on [Zenodo (Record 18327457)](https://zenodo.org/records/18327457)
 
@@ -414,7 +415,7 @@ Produces the full 12-section exploratory analysis.
 
 ---
 
-## Summary
+##  Summary
 
 This **Drug Delivery Analytics — Nanoparticle Biodistribution Dashboard** delivers:
 
