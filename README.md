@@ -25,8 +25,8 @@ The full pipeline was built in **Google Colab (Python)**, following the **Medall
 
 | Name |
 |---|
-| Aalaa Moataz Ahmed ElSayed |
 | Shahd Fekry Mohammed Shawky |
+| Aalaa Moataz Ahmed ElSayed |
 | Mohand Yasser Hussein Hanfy |
 | Mohamed Mostafa Ahmed Mahmoud |
 | Youssef Mohamed Saber Zedan |
